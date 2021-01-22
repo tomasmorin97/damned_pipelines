@@ -1,6 +1,6 @@
 # __DAMNED PIPELINES!!!!__
 
-![Image](https://github.com/potacho/damned_pipelines/tree/master/images/damned_pipelines.JPG)
+![Image](https://github.com/potacho/damned_pipelines/tree/master/images/damned_pipelines.jpg)
 
 Frustrated? Lost? Dreaming about Pipelines?...don't worry, after finish this exercise you'll get it and wouldn't believe that you've lived so long without Pipelines :raised_hands: :raised_hands: :raised_hands:
 
