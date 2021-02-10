@@ -10,7 +10,7 @@ Frustrated? Lost? Dreaming about Pipelines?...don't worry, after finishing this 
 
 Just go to your GitHub account settings and generate a __Personal access token__ using the Developer setting options.
 
-> __IMPORTANT:__ be sure to ONLY select the __repo__ actions for your token...that would be enough!
+> __IMPORTANT:__ be sure to ONLY select the __repo__ actions for your token...that would be enough! Also, be careful with pushing that token to GitHub.
 
 ---
 
